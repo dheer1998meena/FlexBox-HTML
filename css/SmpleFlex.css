@@ -24,7 +24,7 @@ body{padding: 2em;}
     font-weight: bold;
     text-align: center;
 }
-.mainContntItem
+.mainContentItem
 {
     text-align: left;
     background: deepskyblue;
@@ -52,7 +52,7 @@ article
     flex: 1 0 0;
     border: 0px solid green;
 }
-.mainContent
+.mainContentItem
 {
-    flex: 3 0px;
+    flex: 2 0px;
 }
